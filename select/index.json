@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "base_track": "One",
+  "base_artist": "SHE'S",
+  "createdAt": "2026-03-19T11:09:04.654968Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Am I The Only One",
+      "artist": "Aaron Lewis",
+      "has_synced": true,
+      "path": "select/01_Am_I_The_Only_One_Aaron_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Am I The Only One",
+      "artist": "Aaron Lewis",
+      "has_synced": true,
+      "path": "select/02_Am_I_The_Only_One_Aaron_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Down To One",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/03_Down_To_One_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "One Day Tonight",
+      "artist": "Noah Thompson",
+      "has_synced": true,
+      "path": "select/04_One_Day_Tonight_Noah_Thompson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "One Mississippi",
+      "artist": "Kane Brown",
+      "has_synced": true,
+      "path": "select/05_One_Mississippi_Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "One Of Them Girls",
+      "artist": "Lee Brice",
+      "has_synced": true,
+      "path": "select/06_One_Of_Them_Girls_Lee_Brice.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "One Thing Right",
+      "artist": "Marshmello feat. Kane Brown",
+      "has_synced": true,
+      "path": "select/07_One_Thing_Right_Marshmello_feat._Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "One Thing Right",
+      "artist": "Marshmello",
+      "has_synced": true,
+      "path": "select/08_One_Thing_Right_Marshmello.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "One Too Many",
+      "artist": "Keith Urban feat. P!nk",
+      "has_synced": true,
+      "path": "select/09_One_Too_Many_Keith_Urban_feat._P!nk.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "One Too Many",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/10_One_Too_Many_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "(Remember Me) I'm the One Who Loves You [feat. Fiona Apple]",
+      "artist": "Watkins Family Hour",
+      "has_synced": true,
+      "path": "select/11_(Remember_Me)_I'm_the_One_Who_Loves_You_[feat._Fiona_Apple]_Watkins_Family_Hour.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "(Remember Me) I'm the One Who Loves You",
+      "artist": "Watkins Family Hour",
+      "has_synced": true,
+      "path": "select/12_(Remember_Me)_I'm_the_One_Who_Loves_You_Watkins_Family_Hour.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Am I The Only One",
+      "artist": "Dierks Bentley",
+      "has_synced": true,
+      "path": "select/13_Am_I_The_Only_One_Dierks_Bentley.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Am I The Only One Who Cares",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/14_Am_I_The_Only_One_Who_Cares_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Am I The Only One Who Cares (Album Version)",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/15_Am_I_The_Only_One_Who_Cares_(Album_Version)_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Am I the Only One (Who's Ever Felt This Way?)",
+      "artist": "Maria McKee",
+      "has_synced": true,
+      "path": "select/16_Am_I_the_Only_One_(Who's_Ever_Felt_This_Way_)_Maria_McKee.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Am I the Only One (Who's Ever Felt This Way)",
+      "artist": "PAUL WORLEY",
+      "has_synced": true,
+      "path": "select/17_Am_I_the_Only_One_(Who's_Ever_Felt_This_Way)_PAUL_WORLEY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "One",
+      "artist": "SHE'S",
+      "has_synced": false,
+      "path": "select/pl_01_One_SHE'S.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "One",
+      "artist": "SHE'S",
+      "has_synced": true,
+      "path": "select/localdb_01_One_SHE'S.lrc",
+      "repo_name": "sVaRHJn_dgM"
+    }
+  ]
+}
